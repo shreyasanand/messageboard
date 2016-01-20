@@ -23,3 +23,7 @@ A simple web application where users can create an account and post messages and
             * postedby   varchar(10)
             * datetime   datetime
             * message    text
+            
+# Webapp link
+
+http://omega.uta.edu/~sxa1001/shreyasanand/post/board.php
