@@ -1,0 +1,39 @@
+<!--
+  Filename: style.css
+  Student Name: Shreyas Anand
+  Student ID: 1000981001
+-->
+
+body {
+    font-size:20px;
+    color:white;
+    background-color: #484848;
+}
+
+h1 {
+    color:white !important; 
+    font-family:Papyrus !important;
+    text-align: left;
+}
+
+input {
+    color: #484848 !important;
+    font-size:15px;
+    border-radius:5px;
+    font-family:Palatino Linotype;
+}
+
+p.bootstrap_overide {
+    color:white !important; 
+}
+
+#logout {
+    margin-left:1100 !important;
+}
+
+#posts_table {
+    background-color: #F5DA81 !important;
+    border-color: #484848 !important;
+    width: 90% !important;
+    color: black !important;
+}
